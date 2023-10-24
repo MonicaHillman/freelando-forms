@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--cor-primaria-a);
+    padding: 1.5rem 7.5rem;
+}
+
+a {
+    color: var(--cor-neutra-c);
+    text-decoration: none;
+    font-family: var(--fonte);
+    font-size: 20px;
+}
